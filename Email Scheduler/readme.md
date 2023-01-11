@@ -9,7 +9,7 @@ This project is used to send automated emails at specified interval. It makes us
 
 ## How to run the project:
    + Clone the repository
-   + Create **config** folder. Inside this folder,create **credentials.js** file to store your email and password. The code should look like this:
+   + Create **config** folder in the root directory. Inside this folder,create **credentials.js** file to store your email and password. The code should look like this:
         ``` 
         let credentials = {
             USER_EMAIL: <Your_EMAIL>
