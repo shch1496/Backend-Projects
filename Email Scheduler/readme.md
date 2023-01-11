@@ -2,7 +2,6 @@
 
 ## Overview
 This project is used to send automated emails at specified interval. It makes use of the following packages:
-
     + `express` - To create a server.
     + `node-cron` - To perform a task at a specified time
     +  `nodemailer` - To send email. We are using Gmail SMTP service.
@@ -26,6 +25,6 @@ This project is used to send automated emails at specified interval. It makes us
 
 ## Helpful Links:
 + [Create a server in Express](https://expressjs.com/en/starter/hello-world.html)
-+ [Nodemailer SMPTP Transport](https://nodemailer.com/smtp/)
++ [Nodemailer SMTP Transport](https://nodemailer.com/smtp/)
 + [node-cron schedule](https://www.npmjs.com/package/node-cron)
 + [Cron Schedule expressions - crontab guru](https://crontab.guru/)
