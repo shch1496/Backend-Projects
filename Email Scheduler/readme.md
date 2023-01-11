@@ -9,7 +9,7 @@ This project is used to send automated emails at specified interval. It makes us
 
 ## How to run the project:
    + Clone the repository
-   + Create **config** folder. Inside this folder create **credentials.js** file to store your email and password. The code should look like this:
+   + Create **config** folder. Inside this folder,create **credentials.js** file to store your email and password. The code should look like this:
         ``` 
         let credentials = {
             USER_EMAIL: <Your_EMAIL>
@@ -17,7 +17,7 @@ This project is used to send automated emails at specified interval. It makes us
         }
         module.exports = credentials;
         ```
-    + To install all the packages, run the command:`npm install`
+   + To install all the packages, run the command:`npm install`
 
 ### How to setup Gmail SMTP service:
   1. Goto your gmail account.
