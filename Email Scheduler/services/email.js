@@ -7,7 +7,7 @@ const SMTP_PORT = 465;
 const HOST_SERVICE = "smtp.gmail.com";
 
 const SENDER_EMAIL = USER_EMAIL;
-const RECEIVER_EMAIL = "shch14@outlook.com";
+const RECEIVER_EMAIL = "123@test.com";
 
 const CC = [];
 const BCC = [];
