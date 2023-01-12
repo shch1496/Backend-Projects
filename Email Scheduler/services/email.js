@@ -1,4 +1,3 @@
-const { Module } = require("module");
 const nodemailer = require("nodemailer");
 const { USER_EMAIL, USER_PASSWORD } = require("../config/credentials");
 
